@@ -11,7 +11,7 @@ from quad1d_eom import ydot
 # For this quiz you need to set ki below to your desired value
 # Then modify pi_controller.py to build out your PI controller
 kp = 0.7
-ki = 0.1
+ki = 0.10
 # Note that ki needs to be set to 0.10 in order to pass the project
 # You are encouraged to change Ki in order to observe the effects
 # What happens when Ki is really small?
