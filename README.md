@@ -73,3 +73,15 @@ The steady state offset at 30 seconds is 0.028 meters
 Gains: **Kp**=3.625276313216848, **Ki**=0.1882787020485744, **Kd**=1.7111168918908104
 
 <p align="center"> <img src="./misc/Figure_1_tuning.png"> </p>
+
+# PID controller with noise
+
+<p align="center"> <img src="./misc/Figure_1_PID_Noise_controller.png"> </p>
+<p align="center"> <img src="./misc/Figure_2_PID_Noise_controller.png"> </p>
+
+The rise time is 7.588 seconds
+
+The percent overshoot is 5.5%
+
+The steady state offset at 30 seconds is 0.190 meters
+
