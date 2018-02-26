@@ -70,6 +70,6 @@ The steady state offset at 30 seconds is 0.028 meters
 <p align="center"> <img src="./misc/Figure_1_filter.png"> </p>
 
 # Tuning
-Gains: 3.625276313216848, 0.1882787020485744, 1.7111168918908104
+Gains: **Kp**=3.625276313216848, **Ki**=0.1882787020485744, **Kd**=1.7111168918908104
 
 <p align="center"> <img src="./misc/Figure_1_tuning.png"> </p>
