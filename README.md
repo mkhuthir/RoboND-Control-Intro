@@ -1,3 +1,7 @@
+
+<p align="center"> <img src="./misc/controller.png"> </p>
+
+
 # Open Controller
 
 <p align="center"> <img src="./misc/Figure_1_open_controller.png"> </p>
