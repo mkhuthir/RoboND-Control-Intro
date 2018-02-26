@@ -68,3 +68,8 @@ The steady state offset at 30 seconds is 0.028 meters
 # Noise Filters
 
 <p align="center"> <img src="./misc/Figure_1_filter.png"> </p>
+
+# Tuning
+Gains: 3.625276313216848, 0.1882787020485744, 1.7111168918908104
+
+<p align="center"> <img src="./misc/Figure_1_tuning.png"> </p>
