@@ -1,4 +1,6 @@
 
+# PID controllers
+
 <p align="center"> <img src="./misc/controller.png"> </p>
 
 <p align="center"> <img src="./misc/pid.png"> </p>
@@ -63,6 +65,6 @@ The percent overshoot is 1.0%
 
 The steady state offset at 30 seconds is 0.028 meters
 
-# Filter
+# Noise Filters
 
 <p align="center"> <img src="./misc/Figure_1_filter.png"> </p>
