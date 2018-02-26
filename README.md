@@ -1,6 +1,10 @@
 
 <p align="center"> <img src="./misc/controller.png"> </p>
 
+<p align="center"> <img src="./misc/pid.png"> </p>
+
+<p align="center"> <img src="./misc/pid_formula.png"> </p>
+
 
 # Open Controller
 
