@@ -11,6 +11,7 @@ from quad1d_eom import ydot
 # For this quiz you need to set kp, ki and kd so that you have a steady state 
 # error offset less than 0.029 m and your percent overshoot is less than 4.0 %.
 # Its encouraged to try for less though!!
+
 kp = 0.76
 ki = 0.10
 kd = 0.45
