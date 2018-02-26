@@ -5,6 +5,7 @@
 
 <p align="center"> <img src="./misc/pid_formula.png"> </p>
 
+<p align="center"> <img src="./misc/pid-control-summary.png"> </p>
 
 # Open Controller
 
